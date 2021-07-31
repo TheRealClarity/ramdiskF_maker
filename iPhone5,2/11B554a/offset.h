@@ -52,7 +52,7 @@
 #define go_command_handler_ADDR     (0x41E88)
 #define verify_shsh_ADDR            (0x1AD14)
 #define nettoyeur_uncompressed_ADDR (0x48000)
-#define nettoyeur compressed_ADDR   (0x47a7c)
+#define nettoyeur_compressed_ADDR   (0x47a7c)
 
 #define NODE_SIZE (4096 * 4) /* XXX a size this large will use cache for catalog blocks */
 #define TOTAL_NODES (0xFFF)
