@@ -1,4 +1,4 @@
-This is a project by dora2-iOS based on xerub's iLoader. All I've done was reverse engineer made_rdsk3 back to c and fixed a bug.
+This is a project by dora2-iOS based on xerub's iLoader. All the modifications done by me are in no way related to dora, so they can't be responsabilized for my poor work if something goes wrong.
 More to come.
 
 [whats?]  
